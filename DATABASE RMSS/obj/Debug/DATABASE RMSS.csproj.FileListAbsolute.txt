@@ -1,0 +1,23 @@
+F:\StudyUniversity\CAPSTONE1\CODE\DATABASE RMSS\bin\Debug\DATABASE RMSS.dll.config
+F:\StudyUniversity\CAPSTONE1\CODE\DATABASE RMSS\bin\Debug\DATABASE RMSS.dll
+F:\StudyUniversity\CAPSTONE1\CODE\DATABASE RMSS\bin\Debug\DATABASE RMSS.pdb
+F:\StudyUniversity\CAPSTONE1\CODE\DATABASE RMSS\bin\Debug\EntityFramework.dll
+F:\StudyUniversity\CAPSTONE1\CODE\DATABASE RMSS\bin\Debug\EntityFramework.SqlServer.dll
+F:\StudyUniversity\CAPSTONE1\CODE\DATABASE RMSS\bin\Debug\EntityFramework.xml
+F:\StudyUniversity\CAPSTONE1\CODE\DATABASE RMSS\bin\Debug\EntityFramework.SqlServer.xml
+F:\StudyUniversity\CAPSTONE1\CODE\DATABASE RMSS\obj\Debug\DATABASE RMSS.csproj.CoreCompileInputs.cache
+F:\StudyUniversity\CAPSTONE1\CODE\DATABASE RMSS\obj\Debug\DATABASE RMSS.csproj.CopyComplete
+F:\StudyUniversity\CAPSTONE1\CODE\DATABASE RMSS\obj\Debug\DATABASE RMSS.dll
+F:\StudyUniversity\CAPSTONE1\CODE\DATABASE RMSS\obj\Debug\DATABASE RMSS.pdb
+F:\StudyUniversity\CAPSTONE1\CODE\DATABASE RMSS\obj\Debug\DATABASE RMSS.csproj.AssemblyReference.cache
+D:\CAPSTONE\CODE\DATABASE RMSS\bin\Debug\DATABASE RMSS.dll.config
+D:\CAPSTONE\CODE\DATABASE RMSS\bin\Debug\DATABASE RMSS.dll
+D:\CAPSTONE\CODE\DATABASE RMSS\bin\Debug\DATABASE RMSS.pdb
+D:\CAPSTONE\CODE\DATABASE RMSS\bin\Debug\EntityFramework.dll
+D:\CAPSTONE\CODE\DATABASE RMSS\bin\Debug\EntityFramework.SqlServer.dll
+D:\CAPSTONE\CODE\DATABASE RMSS\bin\Debug\EntityFramework.xml
+D:\CAPSTONE\CODE\DATABASE RMSS\bin\Debug\EntityFramework.SqlServer.xml
+D:\CAPSTONE\CODE\DATABASE RMSS\obj\Debug\DATABASE RMSS.csproj.CoreCompileInputs.cache
+D:\CAPSTONE\CODE\DATABASE RMSS\obj\Debug\DATABASE RMSS.csproj.CopyComplete
+D:\CAPSTONE\CODE\DATABASE RMSS\obj\Debug\DATABASE RMSS.dll
+D:\CAPSTONE\CODE\DATABASE RMSS\obj\Debug\DATABASE RMSS.pdb
